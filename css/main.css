@@ -1,0 +1,49 @@
+body {
+    background-image: url('../img/lola.jpg');
+    background-size: cover;
+}
+
+img {
+
+    height: 250px;
+    width: 250px;
+}
+h1.topsy {
+  color: white;
+}
+
+h1 {
+  color: rgba(0, 0, 0, 0)
+  text-align: center;
+  font-size: 40px;
+  text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
+}
+
+form {
+  margin: 0 auto;
+  display: block;
+  text-align: center;
+  margin-top: 50px;
+
+}
+input {
+  border-radius: 50px;
+  border: 1px solid rgb(150, 150, 150);
+  text-align: center;
+}
+button {
+  border-radius: 50px;
+  background-color: black;
+  color: white;
+  border-style: none;
+  padding: 5px;
+  text-align: center;
+}
+
+.topsy {
+    margin-top: 75px;
+}
